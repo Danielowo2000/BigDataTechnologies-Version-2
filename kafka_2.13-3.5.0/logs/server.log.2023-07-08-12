@@ -1,0 +1,7 @@
+[2023-07-08 12:27:56,089] INFO [SnapshotGenerator id=1] Creating new KRaft snapshot file snapshot 00000000000000021650-0000000001 because we have waited at least 60 minute(s). (org.apache.kafka.image.publisher.SnapshotGenerator)
+[2023-07-08 12:27:56,187] INFO [SnapshotEmitter id=1] Successfully wrote snapshot 00000000000000021650-0000000001 (org.apache.kafka.image.publisher.SnapshotEmitter)
+[2023-07-08 12:36:58,105] INFO [BrokerToControllerChannelManager id=1 name=heartbeat] Disconnecting from node 1 due to request timeout. (org.apache.kafka.clients.NetworkClient)
+
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+	at org.apache.kafka.server.util.ShutdownableThread.run(ShutdownableThread.java:127)

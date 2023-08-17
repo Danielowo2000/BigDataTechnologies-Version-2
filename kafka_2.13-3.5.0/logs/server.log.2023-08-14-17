@@ -1,0 +1,5 @@
+[2023-08-14 17:18:55,789] INFO Terminating process due to signal SIGHUP (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2023-08-14 17:18:55,857] INFO Terminating process due to signal SIGHUP (org.apache.kafka.common.utils.LoggingSignalHandler)
+[2023-08-14 17:18:56,210] INFO [BrokerServer id=1] Transition from STARTED to SHUTTING_DOWN (kafka.server.BrokerServer)
+[2023-08-14 17:18:56,215] INFO [BrokerServer id=1] shutting down (kafka.server.BrokerServer)
+[2023-08-14 17:18:56,227] INFO [BrokerLifecycleManager id=1] Beginning controlled shutdown. (kafka.server.BrokerLifecycleManager)

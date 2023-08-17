@@ -1,0 +1,6 @@
+[2023-07-05 15:09:16,268] INFO [SnapshotGenerator id=1] Creating new KRaft snapshot file snapshot 00000000000000021427-0000000001 because we have waited at least 60 minute(s). (org.apache.kafka.image.publisher.SnapshotGenerator)
+[2023-07-05 15:09:16,337] INFO [SnapshotEmitter id=1] Successfully wrote snapshot 00000000000000021427-0000000001 (org.apache.kafka.image.publisher.SnapshotEmitter)
+[2023-07-05 15:58:26,181] INFO [BrokerToControllerChannelManager id=1 name=heartbeat] Disconnecting from node 1 due to request timeout. (org.apache.kafka.clients.NetworkClient)
+[2023-07-05 15:58:26,228] INFO [BrokerToControllerChannelManager id=1 name=heartbeat] Cancelled in-flight BROKER_HEARTBEAT request with correlation id 6843 due to node 1 being disconnected (elapsed time since creation: 4505ms, elapsed time since send: 4505ms, request timeout: 4500ms) (org.apache.kafka.clients.NetworkClient)
+[2023-07-05 15:58:26,231] INFO [broker-1-to-controller-heartbeat-channel-manager]: Recorded new controller, from now on will use node localhost:9093 (id: 1 rack: null) (kafka.server.BrokerToControllerRequestThread)
+[2023-07-05 15:58:26,234] INFO [BrokerLifecycleManager id=1] Unable to send a heartbeat because the RPC got timed out before it could be sent. (kafka.server.BrokerLifecycleManager)

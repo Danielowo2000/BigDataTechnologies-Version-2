@@ -1,0 +1,1 @@
+[2023-08-14 17:18:56,230] INFO [QuorumController id=1] Unfenced broker 1 has requested and been granted an immediate shutdown. (org.apache.kafka.controller.BrokerHeartbeatManager)

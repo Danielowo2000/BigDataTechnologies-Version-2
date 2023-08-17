@@ -1,0 +1,1 @@
+[2023-08-12 15:01:47,991] INFO [QuorumController id=1] The request from broker 1 to unfence has been granted because it has caught up with the offset of its register broker record 547. (org.apache.kafka.controller.BrokerHeartbeatManager)

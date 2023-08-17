@@ -1,0 +1,7 @@
+[2023-08-05 18:01:15,786] INFO [Broker id=1] Transitioning 1 partition(s) to local followers. (state.change.logger)
+[2023-08-05 18:01:15,827] INFO [Broker id=1] Creating new partition quickstart-events-0 with topic id Qc-QVgvES564u37vN0gVIg. (state.change.logger)
+[2023-08-05 18:01:15,894] INFO [Broker id=1] Follower quickstart-events-0 starts at leader epoch 32 from offset 0 with partition epoch 32 and high watermark 0. Current leader is -1. Previous leader epoch was -1. (state.change.logger)
+[2023-08-05 18:01:15,901] INFO [Broker id=1] Stopped fetchers as part of become-follower for 1 partitions (state.change.logger)
+[2023-08-05 18:01:15,917] INFO [Broker id=1] Started fetchers as part of become-follower for 1 partitions (state.change.logger)
+[2023-08-05 18:01:16,093] INFO [Broker id=1] Transitioning 1 partition(s) to local leaders. (state.change.logger)
+[2023-08-05 18:01:16,147] INFO [Broker id=1] Leader quickstart-events-0 with topic id Some(Qc-QVgvES564u37vN0gVIg) starts at leader epoch 33 from offset 0 with partition epoch 33, high watermark 0, ISR [1], adding replicas [] and removing replicas [] . Previous leader epoch was 32. (state.change.logger)

@@ -1,0 +1,2 @@
+[2023-07-15 10:35:33,165] INFO [QuorumController id=1] The request from broker 1 to unfence has been granted because it has caught up with the offset of its register broker record 5. (org.apache.kafka.controller.BrokerHeartbeatManager)
+[2023-07-15 10:35:33,574] INFO [QuorumController id=1] handleBrokerUnfenced: changing 51 partition(s) (org.apache.kafka.controller.ReplicationControlManager)

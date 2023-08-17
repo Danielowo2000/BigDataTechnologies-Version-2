@@ -1,0 +1,1 @@
+[2023-08-12 14:53:55,385] INFO [QuorumController id=1] Fencing broker 1 because its session has timed out. (org.apache.kafka.controller.ReplicationControlManager)
